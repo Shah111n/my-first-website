@@ -1,0 +1,27 @@
+img{
+    width: 100%;
+}
+.fa{
+    color: red;
+}
+#re{
+    color: blue;
+}
+.blog{
+    border: 10px solid red;
+    color: aqua;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: black;
+    padding: 20px;
+    text-align: justify;
+    font-size: 15px;
+    width: 20%;
+    float: left;
+}
+h3{
+    text-align: center;
+}
+.color{
+    color: brown;
+}
